@@ -270,7 +270,7 @@
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": "http://rozastefanska.github.io",
+    "siteUrl": "http://rozastefanska.com",
     "cookiesAlert": {
       "customDialogSelector": false,
       "colorText": "#424a4d",
@@ -291,7 +291,7 @@
       "underlineLink": false,
       "text": "Aby kontynuować, musisz zgodzić się z warunkami naszego <a href=’regulamin.html’>Regulaminu</a> oraz <a href=’polityka.html’>Polityką Prywatności</a>."
     },
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n\nG-4206WY06FY",
     "publishEditFolder": false,
     "publishChangesOnly": true,
     "google-analytics": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-4206WY06FY\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-4206WY06FY');\n</script>"
@@ -5319,7 +5319,8 @@
     "page9.html": {
       "settings": {
         "title": "O mnie",
-        "order": "1"
+        "order": "1",
+        "meta_descr": ""
       },
       "components": [
         {
